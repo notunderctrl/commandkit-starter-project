@@ -1,10 +1,10 @@
 {
-  "name": "commandkit-starter-files",
-  "version": "0.0.0",
-  "main": "src/index.js",
-  "dependencies": {
-    "commandkit": "^0.0.8",
-    "discord.js": "^14.11.0",
-    "dotenv": "^16.3.1"
-  }
+    "name": "commandkit-starter-files",
+    "version": "0.0.0",
+    "main": "src/index.js",
+    "dependencies": {
+        "commandkit": "^0.0.9",
+        "discord.js": "^14.12.1",
+        "dotenv": "^16.3.1"
+    }
 }
