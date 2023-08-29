@@ -3,8 +3,8 @@
     "version": "0.0.0",
     "main": "src/index.js",
     "dependencies": {
-        "commandkit": "^0.0.9",
-        "discord.js": "^14.12.1",
+        "commandkit": "^0.0.10",
+        "discord.js": "^14.13.0",
         "dotenv": "^16.3.1"
     }
 }
