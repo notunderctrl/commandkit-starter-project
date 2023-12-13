@@ -1,3 +1,5 @@
 node_modules
+dist
+.commandkit
 .env
 .DS_Store
