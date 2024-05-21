@@ -1,15 +1,15 @@
 {
-    "name": "commandkit-starter-files",
-    "version": "0.0.0",
-    "main": "src/index.js",
-    "scripts": {
-        "dev": "commandkit dev",
-        "build": "commandkit build",
-        "start": "commandkit start"
-    },
-    "dependencies": {
-        "commandkit": "^0.1.9",
-        "discord.js": "^14.14.1",
-        "dotenv": "^16.3.1"
-    }
+  "name": "commandkit-starter-files",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "commandkit dev",
+    "build": "commandkit build",
+    "start": "commandkit start"
+  },
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  }
 }
