@@ -1,6 +1,7 @@
+require('dotenv/config');
+
 const { Client } = require('discord.js');
 const { CommandKit } = require('commandkit');
-require('dotenv/config');
 
 const client = new Client({
   intents: ['Guilds', 'GuildMembers', 'GuildMessages', 'MessageContent'],
